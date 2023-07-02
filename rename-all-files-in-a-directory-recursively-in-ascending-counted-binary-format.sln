@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rename-all-files-in-a-directory-recursively-in-ascending-counted-binary-format", "rename-all-files-in-a-directory-recursively-in-ascending-counted-binary-format.vcxproj", "{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Debug|x64.ActiveCfg = Debug|x64
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Debug|x64.Build.0 = Debug|x64
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Debug|x86.Build.0 = Debug|Win32
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Release|x64.ActiveCfg = Release|x64
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Release|x64.Build.0 = Release|x64
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Release|x86.ActiveCfg = Release|Win32
+		{DC51C932-F5F2-4CDF-9A0B-D67A87C95FDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D130FC-E652-40D9-BE37-AE21A74D29E9}
+	EndGlobalSection
+EndGlobal
